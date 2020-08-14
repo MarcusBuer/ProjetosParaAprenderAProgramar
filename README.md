@@ -1,6 +1,7 @@
 # Projetos para aprender a programar
 
-Uma pequena coletânea de ideias de projetos para aprender a programar páginas web de forma prática, aprendendo conceitos que são solicitados pelo mercado. 
+Uma pequena coletânea de ideias de projetos para aprender a programar páginas web de forma prática, com pequenos desafios para não focar demais em fazer tudo de uma vez, e que podem ser utilizados com pequenas variações para outros propósitos. 
+
 Caso queira incluir uma ideia mande um issue, seguindo o mesmo formato utilizado para as outras ideias, se possível com exemplos e extras.
 
 
