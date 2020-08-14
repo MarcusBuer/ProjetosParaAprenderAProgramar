@@ -5,6 +5,7 @@ Uma pequena coletânea de ideias de projetos para aprender a programar páginas 
 Caso queira incluir uma ideia mande um issue, seguindo o mesmo formato utilizado para as outras ideias, se possível com exemplos e extras.
 
 
+
 ## Nível Iniciante
 
 ### 🕗 Timers 
@@ -69,6 +70,7 @@ Extras:
 - [ ]  Criar animações para que o frame possa variar de cor com o tempo.
 
 
+
 ## Nível Intermediário
 
 ### 📕 Aplicativo de desenho
@@ -131,6 +133,7 @@ Extras:
 - [ ]  Separar o conteúdo em categorias/tags e permitir visualizar o conteúdo de categorias/tags específicas.
 - [ ]  Criar um sistema de busca para achar posts que contenham uma palavra chave ou expressão.
 - [ ]  Utilizar Rich Text para criar e editar os posts, através de um editor WYSIWYG.
+
 
 
 ## Nível Avançado
