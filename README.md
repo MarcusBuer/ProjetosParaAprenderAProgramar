@@ -10,6 +10,7 @@ Caso queira incluir uma ideia mande um issue, seguindo o mesmo formato utilizado
 
 ### 🕗 Timers 
 Uma página com timer ajustável, podendo ser utilizado em dois modos: incremental ou countdown, utilizando funções nativas da linguagem (não utilizar bibliotecas).
+
 Exemplos de uso: tempo para iniciar uma livestream, tempo até o lançamento de um filme, organizador de tempo tipo pomodoro.
 
 Extras:
@@ -28,6 +29,7 @@ Extras:
 
 ### 🍵 Receitas
 Uma página com uma sequência lógica para chegar em um resultado, podendo ser utilizados recursos multimídia para exemplificar as etapas.
+
 Exemplos de uso: receitas culinárias, instruções técnicas, guias de montagem de produtos, manuais.
 
 Extras:
@@ -75,6 +77,7 @@ Extras:
 
 ### 📕 Aplicativo de desenho
 Uma página com uma tela virtual onde o usuário possa fazer desenhos com o mouse, mudando a cor, o tamanho da ferramenta e apagar a tela.
+
 Exemplos de uso: jogo de adivinhação, jogo de pintura, anotações rápidas.
 
 Extras:
@@ -85,6 +88,7 @@ Extras:
 
 ### 📱 Loja Online
 Uma página uma lista de produtos que o usuário possa buscar, verificar informações, adicionar ao carrinho e finalizar a compra com uma lista de items (não é necessário implementar um método de pagamento, que é mais avançado e necessita aprender sobre segurança para lidar com os dados de clientes).
+
 Exemplos de uso: Loja de bijuterias, loja de jogos, loja de merch, etc.
 
 Extras:
@@ -103,6 +107,7 @@ Extras:
 
 ### 📭 Aplicativo de Chat
 Uma página com uma tela para incluir o nome do usuário, que ao ser preenchida é levado para uma sala de chat, onde pode enviar e receber mensagem de múltiplos usuários.
+
 Exemplos de uso: Chat para comentários durante uma transmissão de conteúdo, suporte em tempo real para empresas, linhas de auxílio e prevenção a doenças.
 
 Extras:
@@ -140,6 +145,7 @@ Extras:
 
 ### :octocat: Visualizador de Atividade do GitHub
 Uma página onde se preencha o usuário do Github e a página apresente em forma de timeline os dados dos repositórios públicos.
+
 Exemplos de uso: jogo de adivinhação, jogo de pintura, anotações rápidas.
 
 Extras:
